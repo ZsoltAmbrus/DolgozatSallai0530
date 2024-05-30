@@ -1,0 +1,45 @@
+/*
+File: style.css
+Author: Ambrus Zsolt
+Copyright: 2024, Ambrus Zsolt
+Group: Szoft I-1-N
+Date: 2024-05-30
+Github: https://github.com/ZsoltAmbrus/DolgozatSallai0530
+Licenc: GNU GPL
+*/
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin-bottom: 20px;
+}
+
+label {
+    display: inline-block;
+    width: 100px;
+}
+
+input {
+    margin-bottom: 10px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
